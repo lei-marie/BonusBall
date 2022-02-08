@@ -1,0 +1,39 @@
+h1{
+    color: rgb(20, 153, 220);
+}
+
+body{
+    background-color: aquamarine;
+}
+button{
+    display: inline-flex;
+    height: 50px;
+    width: 100px;
+    padding: 0;
+    background: #4490ec;
+    border-width: medium;
+    border-color: #5572c9;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: "Quicksand", san-serif;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 3in;
+    text-align: center;
+   
+}
+button:hover {
+    background: #203e98;
+}
+button:active {
+    background:#b5e6fa;
+}
+button{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    color:aliceblue;
+    font: weight 300px;;
+    font-size: large;
+}
