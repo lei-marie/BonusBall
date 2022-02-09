@@ -14,8 +14,7 @@ const moveBallX = () => {
 
   let= Xmin = 0;
   let= Xmax = window.innerWidth;
-  let= Ymin = 0;
-  let= Ymax= window.innerHeight; 
+ 
 
   if (reverse) {
     positionX = positionX - velocity;
@@ -36,7 +35,7 @@ sidebtn.addEventListener('click',()=>{
 const moveBallY = ()=>{
 
   let Ymin= 0;
-  let Ymax= 800;
+  let= Ymax= window.innerHeight;
   
   if (reverse) {
       positionY= positionY - velocity;
