@@ -11,3 +11,5 @@ Clicking the 'Side to Side' button, it initiates the movement of the ball, movin
 # Roadmap: 
 Future improvements will be to update current features and add more animation. 
 
+## Link to:
+[Bonus Ball Interactive](lei-marie.github.io/bonusball/)
